@@ -3,4 +3,4 @@ demo:
 
 spring:
   profiles:
-    includes: demo
+    include: demo
