@@ -1,0 +1,6 @@
+demo:
+  count: 8
+
+spring:
+  profiles:
+    include: demo
