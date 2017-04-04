@@ -4,3 +4,9 @@ demo:
 spring:
   profiles:
     include: demo
+
+logging:
+  level:
+    org:
+      springframework:
+        web: DEBUG
